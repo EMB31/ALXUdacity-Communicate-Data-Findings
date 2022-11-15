@@ -1,5 +1,4 @@
 # Exploration of Ford GoBike System Data 
-## by Ewurabena Bainson
 
 
 ## Dataset
